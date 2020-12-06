@@ -11,6 +11,7 @@ silently fails for some reason using Python 3)
 - Upload to moss based on file type
 CS350 / SE310
  ./moss -l java `find . -name “*.java”`
+ - Be careful this is the tick next to the "1" and not a single quote.
 CS 432
  NOTE: Using c to best match shaders stored in the HTML files
  ./moss -l c `find . -name "*.html"`
